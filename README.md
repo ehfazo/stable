@@ -1,1 +1,1 @@
-# stable
+# stable (debian repo _sorex)
